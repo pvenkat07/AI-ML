@@ -1,4 +1,1 @@
-one
-
-myname
-data sciences
+This is my summer internship on Data science with python
